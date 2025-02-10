@@ -1,0 +1,21 @@
+
+when choose user get her family as checkboxes
+add family field to new customer modal
+table rows
+1- services (default)
++ add
+
+
+ticket(from - to - oneway - tranzi) 
+hotel - airplan - note - docs - tour no
+
+transportaion (note - date from to - time from to)
+
+tour (date time from to - note)
+
+visa ()
+
+- transportaion - tour - viza
+
+{{ assets('assets/admin/plugins/bootstrap/js/bootstrap.bundle.min.js') }}  to {{ url('assets/admin/plugins/bootstrap/js/bootstrap.bundle.min.js') }}"
+assets folder copied to public folder
